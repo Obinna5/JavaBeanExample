@@ -1,0 +1,13 @@
+The purpose of this project is to utilize JavaBeans and the serialization process
+
+8.22.22
+
+Tips:
+
+- JavaBeans are classes with a variety of objects that are encapsulated into a single object. 
+- They have a zero-argument constructor and must be serializable (objects are converted to bytestream). 
+- They usually contain Setters and Getters. 
+
+
+
+
